@@ -1,0 +1,324 @@
+.mainbody{
+    width: 100%;
+    height: 713px;
+    background-image: url(background1.png);
+    background-size: cover;
+    
+}
+.background{
+    width: 100%;
+    height: 713px;
+   
+}
+body{
+    margin: 0;
+    
+}
+.header{
+    width: 100%;
+    height: 163px;
+}
+.navigation ul li{
+    
+    list-style: none;
+    display: inline;
+    margin-right: 40px;
+    cursor: pointer;
+ 
+}
+.navmenu{
+    font: 400 18px/1.88 trade-gothic;
+    
+    
+    
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.88;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    padding-top: 57px;
+    padding-left: 47px;
+    color: #fff;
+    margin-right: 40px;
+    margin-top: 0px;
+   }
+ .fa-solid{
+    float: right;
+    padding-right: 40px;
+    color: #f60;
+    margin-top: 67px;
+ }
+ .logomain{
+    width: 140px;
+    margin-right: 111px;
+    float: right;
+ }
+ .righticons{
+    
+    margin-right: -48px;
+    margin-top: -109px;
+ }
+ .caption1{
+    font: 400 18px/1.88 trade-gothic;
+   
+    font-weight: 700;
+    font-size: 20px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    margin-left: 652px;
+    margin-top: 89px;
+
+
+ }
+ .caption2{
+    font: 400 18px/1.88 trade-gothic;
+    font-weight: 700;
+    font-stretch: normal;
+    font-size: 60px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #fff;
+    margin-left: 515px;
+    margin-block-start: -25px;
+    -webkit-transform: scale(1.2);
+
+ }
+.orangebutton{
+    margin-top: -61px;
+    height: 150px;
+}
+.orangebutton1{
+    background-color: #f60;
+    border: none;
+    color: #fff;
+    margin-left: 508px;
+    font-size: 29px;
+    font: 400 18px/1.88 trade-gothic;
+    padding-top: 18px;
+    padding-bottom: 15px;
+    margin-right: 46px;
+    cursor:pointer;
+    font-weight: 700;
+
+}
+.orangebutton2{
+    background-color: #f60;
+    border: none;
+    color: #fff;
+    font-size: 29px;
+    font: 400 18px/1.88 trade-gothic;
+    padding-left: 40px;
+    padding-right: 40px;
+    padding-top: 18px;
+    padding-bottom: 15px;
+    cursor:pointer;
+    font-weight: 700;
+}
+.secondbody{
+    width: 100%;
+    height: 310px;
+}
+.imagefirst{
+margin-left: 29px;
+}
+.imagesecond{
+    margin-left: 10px;
+}
+.imagethird{
+    margin-left: 10px;
+}
+.firstrow{
+height: 600px;
+}
+.container{
+    height: 300px;
+}
+.secondrow{
+    display: flex;
+    font-size: 15px;
+    font: 400 18px/1.88 trade-gothic;
+    margin-top: 583px;    cursor:pointer;
+    height: 77px;
+}
+.getduked{
+    margin-left: 200px;
+}
+.goadventure{
+    margin-left: 390px;
+}
+.race{
+    margin-left: 288px;
+}
+.thirdrow{
+    display:flex;
+    margin-top: -42px;
+    cursor:pointer;
+}
+.naked{
+    margin-left: 187px;
+}
+.travel{
+margin-left: 369px;
+}
+.supersport{
+margin-left: 302px;
+}
+.fourthrowimages{
+    height: 300px;
+}
+.fifthrow{
+    font: 400 18px/1.88 trade-gothic;
+
+}
+ 
+.fifth{
+    margin-left: 31px;
+}
+.seconddate{
+    margin-left: 397px;
+    float: right;
+}
+.thirddate{
+    margin-left: 400px;
+    float: left;
+}
+.sixthrow{
+    font: 400 18px/1.88 trade-gothic;
+    font-size: 25px;
+    font-weight: 800;
+    margin-top: -6px;
+    cursor: pointer;
+    
+
+}
+.sixthrowfirst{
+    float: left;
+    margin-left: 30px;
+}
+.sixthrowsecond{
+    margin-left: 150px;
+    float: left;
+}
+.sixthrowthird{
+    margin-left: 107px;
+    float: left;
+}
+.seventhrow{
+    margin-left: 27px;
+    float: left;
+    margin-top: -32px;
+    font-size: 18px;
+    font: 400 18px/1.88 trade-gothic;
+}
+
+
+.seventhrowsecond{
+    float: left;
+    margin-left: 108px;
+}
+
+
+.seventhrowthird{
+    float: left;
+    margin-left: 80px;
+}
+.eightblock{
+    background-color: black;
+}
+.eight{
+    float:left;
+    width: 1442px;
+    margin-left: 28px;
+}
+.image3{
+    height=500px
+}
+.blockline1{
+    color: #fff;
+    text-decoration-line: underline;
+    margin-top: -170px;
+    margin-left: 164px;
+    float: left;
+}
+.blockline2{
+    color:#fff;
+    margin-top: -72px;
+    margin-left: 235px;
+    float: left;
+    font-size: 18px;
+}
+.follow{
+    cursor: pointer;
+    margin-right: -436px;
+    float: right;
+    margin-top: -258px;
+}
+.fa-brands{
+    color: #fff;
+    font-size: 23px;
+}
+.followbutton{
+    cursor: pointer;
+    background-color: black;
+    color: #fff;
+}
+.nineth{
+
+}
+.nineth{
+    margin-top: 21px;
+    float: left;
+    margin-left: 500px;
+    font: 400 18px/1.88 trade-gothic;
+    font-size: 23px;
+}
+.signupbutton{
+    cursor: pointer;
+    background-color: white;
+    border-color: #f60;
+    float: left;
+    margin-left: 66px;
+    color: black;
+    font-size: 19px;
+    border-width: thin;
+    padding-top: 11px;
+    padding-bottom: 12px;
+}
+.footertext{
+    color: lightgray;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #fff;
+    border-top: 1px solid #bdbdbd;
+}
+.footer{
+    color: #fff;
+    background-color: #000;
+    padding-left: 10px;
+    padding-right: 10px;
+    list-style: none;
+    font: 300 18px/1.625 trade-gothic-condensed;
+}
+.footerelements{
+    display: flex;
+    justify-content: space-between;
+}
+.footerul{
+    list-style: none;
+    cursor: pointer;
+}
+.copyright{
+    color:darkgrey;
+background-color: #000;
+display: flex;
+border-top: 1px solid #bdbdbd;
+justify-content: space-between;
+padding-top: 34px;
+padding-bottom: 5px;
+
+}
+.lastclass{
+    cursor: pointer;
+    margin-right: 25px;
+    color:#f60;
+    font: 300 18px/1.625 trade-gothic-condensed;
+}
